@@ -6,17 +6,7 @@ El repositorio está dividido en dos secciones principales, cada una con su prop
 
 ## Estructura 
 
-iris/
-│
-├── clasificacion/
-│   ├── iris_clasificacion.ipynb
-│   └── README.md
-│
-├── visualizacion/
-│   ├── iris_analisis_visual.ipynb
-│   └── README.md
-│
-└── README.md
+<pre> ``` iris/ ├── clasificacion/ │ ├── iris_clasificacion.ipynb │ └── README.md ├── visualizacion/ │ ├── iris_analisis_visual.ipynb │ └── README.md └── README.md ``` </pre>
 
 📌 clasificacion/
 Contiene un notebook donde se entrena un modelo de red neuronal completamente conectada (FFNN) usando TensorFlow y Keras para resolver el problema de clasificación de las especies de flores Iris. Incluye preparación del dataset, entrenamiento, evaluación del modelo y visualización de métricas como accuracy y loss.
