@@ -4,9 +4,7 @@ Este repositorio contiene una colección de notebooks dedicados al análisis y m
 
 El repositorio está dividido en dos secciones principales, cada una con su propio enfoque y documentación.
 
-## Estructura 
-
-<pre> ``` iris/ ├── clasificacion/ │ ├── iris_clasificacion.ipynb │ └── README.md ├── visualizacion/ │ ├── iris_analisis_visual.ipynb │ └── README.md └── README.md ``` </pre>
+## Estructura
 
 📌 clasificacion/
 Contiene un notebook donde se entrena un modelo de red neuronal completamente conectada (FFNN) usando TensorFlow y Keras para resolver el problema de clasificación de las especies de flores Iris. Incluye preparación del dataset, entrenamiento, evaluación del modelo y visualización de métricas como accuracy y loss.
